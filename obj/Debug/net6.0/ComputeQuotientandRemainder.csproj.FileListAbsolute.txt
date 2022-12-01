@@ -1,0 +1,15 @@
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\ComputeQuotientandRemainder\bin\Debug\net6.0\ComputeQuotientandRemainder.exe
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\ComputeQuotientandRemainder\bin\Debug\net6.0\ComputeQuotientandRemainder.deps.json
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\ComputeQuotientandRemainder\bin\Debug\net6.0\ComputeQuotientandRemainder.runtimeconfig.json
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\ComputeQuotientandRemainder\bin\Debug\net6.0\ComputeQuotientandRemainder.dll
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\ComputeQuotientandRemainder\bin\Debug\net6.0\ComputeQuotientandRemainder.pdb
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\ComputeQuotientandRemainder\obj\Debug\net6.0\ComputeQuotientandRemainder.csproj.AssemblyReference.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\ComputeQuotientandRemainder\obj\Debug\net6.0\ComputeQuotientandRemainder.GeneratedMSBuildEditorConfig.editorconfig
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\ComputeQuotientandRemainder\obj\Debug\net6.0\ComputeQuotientandRemainder.AssemblyInfoInputs.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\ComputeQuotientandRemainder\obj\Debug\net6.0\ComputeQuotientandRemainder.AssemblyInfo.cs
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\ComputeQuotientandRemainder\obj\Debug\net6.0\ComputeQuotientandRemainder.csproj.CoreCompileInputs.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\ComputeQuotientandRemainder\obj\Debug\net6.0\ComputeQuotientandRemainder.dll
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\ComputeQuotientandRemainder\obj\Debug\net6.0\refint\ComputeQuotientandRemainder.dll
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\ComputeQuotientandRemainder\obj\Debug\net6.0\ComputeQuotientandRemainder.pdb
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\ComputeQuotientandRemainder\obj\Debug\net6.0\ComputeQuotientandRemainder.genruntimeconfig.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\ComputeQuotientandRemainder\obj\Debug\net6.0\ref\ComputeQuotientandRemainder.dll
