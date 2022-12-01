@@ -1,0 +1,15 @@
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\LeapYear\bin\Debug\net6.0\LeapYear.exe
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\LeapYear\bin\Debug\net6.0\LeapYear.deps.json
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\LeapYear\bin\Debug\net6.0\LeapYear.runtimeconfig.json
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\LeapYear\bin\Debug\net6.0\LeapYear.dll
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\LeapYear\bin\Debug\net6.0\LeapYear.pdb
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\LeapYear\obj\Debug\net6.0\LeapYear.csproj.AssemblyReference.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\LeapYear\obj\Debug\net6.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\LeapYear\obj\Debug\net6.0\LeapYear.AssemblyInfoInputs.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\LeapYear\obj\Debug\net6.0\LeapYear.AssemblyInfo.cs
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\LeapYear\obj\Debug\net6.0\LeapYear.csproj.CoreCompileInputs.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\LeapYear\obj\Debug\net6.0\LeapYear.dll
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\LeapYear\obj\Debug\net6.0\refint\LeapYear.dll
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\LeapYear\obj\Debug\net6.0\LeapYear.pdb
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\LeapYear\obj\Debug\net6.0\LeapYear.genruntimeconfig.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\LeapYear\obj\Debug\net6.0\ref\LeapYear.dll
