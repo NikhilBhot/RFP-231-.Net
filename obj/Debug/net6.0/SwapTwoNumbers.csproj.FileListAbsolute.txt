@@ -1,0 +1,15 @@
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\SwapTwoNumbers\bin\Debug\net6.0\SwapTwoNumbers.exe
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\SwapTwoNumbers\bin\Debug\net6.0\SwapTwoNumbers.deps.json
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\SwapTwoNumbers\bin\Debug\net6.0\SwapTwoNumbers.runtimeconfig.json
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\SwapTwoNumbers\bin\Debug\net6.0\SwapTwoNumbers.dll
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\SwapTwoNumbers\bin\Debug\net6.0\SwapTwoNumbers.pdb
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\SwapTwoNumbers\obj\Debug\net6.0\SwapTwoNumbers.csproj.AssemblyReference.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\SwapTwoNumbers\obj\Debug\net6.0\SwapTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\SwapTwoNumbers\obj\Debug\net6.0\SwapTwoNumbers.AssemblyInfoInputs.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\SwapTwoNumbers\obj\Debug\net6.0\SwapTwoNumbers.AssemblyInfo.cs
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\SwapTwoNumbers\obj\Debug\net6.0\SwapTwoNumbers.csproj.CoreCompileInputs.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\SwapTwoNumbers\obj\Debug\net6.0\SwapTwoNumbers.dll
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\SwapTwoNumbers\obj\Debug\net6.0\refint\SwapTwoNumbers.dll
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\SwapTwoNumbers\obj\Debug\net6.0\SwapTwoNumbers.pdb
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\SwapTwoNumbers\obj\Debug\net6.0\SwapTwoNumbers.genruntimeconfig.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\SwapTwoNumbers\obj\Debug\net6.0\ref\SwapTwoNumbers.dll
