@@ -1,0 +1,15 @@
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\EvenOddNumbers\bin\Debug\net6.0\EvenOddNumbers.exe
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\EvenOddNumbers\bin\Debug\net6.0\EvenOddNumbers.deps.json
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\EvenOddNumbers\bin\Debug\net6.0\EvenOddNumbers.runtimeconfig.json
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\EvenOddNumbers\bin\Debug\net6.0\EvenOddNumbers.dll
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\EvenOddNumbers\bin\Debug\net6.0\EvenOddNumbers.pdb
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\EvenOddNumbers\obj\Debug\net6.0\EvenOddNumbers.csproj.AssemblyReference.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\EvenOddNumbers\obj\Debug\net6.0\EvenOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\EvenOddNumbers\obj\Debug\net6.0\EvenOddNumbers.AssemblyInfoInputs.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\EvenOddNumbers\obj\Debug\net6.0\EvenOddNumbers.AssemblyInfo.cs
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\EvenOddNumbers\obj\Debug\net6.0\EvenOddNumbers.csproj.CoreCompileInputs.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\EvenOddNumbers\obj\Debug\net6.0\EvenOddNumbers.dll
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\EvenOddNumbers\obj\Debug\net6.0\refint\EvenOddNumbers.dll
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\EvenOddNumbers\obj\Debug\net6.0\EvenOddNumbers.pdb
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\EvenOddNumbers\obj\Debug\net6.0\EvenOddNumbers.genruntimeconfig.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\EvenOddNumbers\obj\Debug\net6.0\ref\EvenOddNumbers.dll
