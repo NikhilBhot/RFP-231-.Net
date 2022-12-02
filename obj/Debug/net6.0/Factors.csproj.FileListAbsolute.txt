@@ -1,0 +1,15 @@
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\Factors\obj\Debug\net6.0\Factors.csproj.AssemblyReference.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\Factors\obj\Debug\net6.0\Factors.GeneratedMSBuildEditorConfig.editorconfig
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\Factors\obj\Debug\net6.0\Factors.AssemblyInfoInputs.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\Factors\obj\Debug\net6.0\Factors.AssemblyInfo.cs
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\Factors\obj\Debug\net6.0\Factors.csproj.CoreCompileInputs.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\Factors\bin\Debug\net6.0\Factors.exe
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\Factors\bin\Debug\net6.0\Factors.deps.json
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\Factors\bin\Debug\net6.0\Factors.runtimeconfig.json
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\Factors\bin\Debug\net6.0\Factors.dll
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\Factors\bin\Debug\net6.0\Factors.pdb
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\Factors\obj\Debug\net6.0\Factors.dll
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\Factors\obj\Debug\net6.0\refint\Factors.dll
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\Factors\obj\Debug\net6.0\Factors.pdb
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\Factors\obj\Debug\net6.0\Factors.genruntimeconfig.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\Factors\obj\Debug\net6.0\ref\Factors.dll
