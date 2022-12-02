@@ -1,0 +1,15 @@
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\HarmonicNumber\bin\Debug\net6.0\HarmonicNumber.exe
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\HarmonicNumber\bin\Debug\net6.0\HarmonicNumber.deps.json
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\HarmonicNumber\bin\Debug\net6.0\HarmonicNumber.runtimeconfig.json
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\HarmonicNumber\bin\Debug\net6.0\HarmonicNumber.dll
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\HarmonicNumber\bin\Debug\net6.0\HarmonicNumber.pdb
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.csproj.AssemblyReference.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.AssemblyInfoInputs.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.AssemblyInfo.cs
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.csproj.CoreCompileInputs.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.dll
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\HarmonicNumber\obj\Debug\net6.0\refint\HarmonicNumber.dll
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.pdb
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.genruntimeconfig.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\HarmonicNumber\obj\Debug\net6.0\ref\HarmonicNumber.dll
