@@ -1,0 +1,15 @@
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\FlipCoin\obj\Debug\net6.0\FlipCoin.csproj.AssemblyReference.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\FlipCoin\obj\Debug\net6.0\FlipCoin.GeneratedMSBuildEditorConfig.editorconfig
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\FlipCoin\obj\Debug\net6.0\FlipCoin.AssemblyInfoInputs.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\FlipCoin\obj\Debug\net6.0\FlipCoin.AssemblyInfo.cs
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\FlipCoin\obj\Debug\net6.0\FlipCoin.csproj.CoreCompileInputs.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\FlipCoin\bin\Debug\net6.0\FlipCoin.exe
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\FlipCoin\bin\Debug\net6.0\FlipCoin.deps.json
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\FlipCoin\bin\Debug\net6.0\FlipCoin.runtimeconfig.json
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\FlipCoin\bin\Debug\net6.0\FlipCoin.dll
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\FlipCoin\bin\Debug\net6.0\FlipCoin.pdb
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\FlipCoin\obj\Debug\net6.0\FlipCoin.dll
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\FlipCoin\obj\Debug\net6.0\refint\FlipCoin.dll
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\FlipCoin\obj\Debug\net6.0\FlipCoin.pdb
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\FlipCoin\obj\Debug\net6.0\FlipCoin.genruntimeconfig.cache
+D:\DLS-RFP-231\Day-05-BasicCorePrograms\FlipCoin\obj\Debug\net6.0\ref\FlipCoin.dll
